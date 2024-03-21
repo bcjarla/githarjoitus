@@ -1,2 +1,1 @@
-Tämä ensimmäisen github repon readme-tiedosto.
-Lisään tänne rivin.
+Katso yksinkertainen git proseduuri gitohje-tiedostosta.
